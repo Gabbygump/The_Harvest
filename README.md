@@ -15,11 +15,11 @@
 
 ### Controls
 
-..* the up arrow makes the bunny go up
-..* the down arrow makes teh bunny go down
-..* the right arrow makes the bunny run right
-..* the left arrow makes the bunny run left
-..* the space key makes the bunny jump in the air 
+* the up arrow makes the bunny go up
+* the down arrow makes teh bunny go down
+* the right arrow makes the bunny run right
+* the left arrow makes the bunny run left
+* the space key makes the bunny jump in the air 
 
 
 
