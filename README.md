@@ -45,7 +45,7 @@
  * The apple grants the bunny 1 point. 
  
  
-![Capture1](/Capture.JPG)
+![Capture1](/Capture1.JPG)
 
 
 
