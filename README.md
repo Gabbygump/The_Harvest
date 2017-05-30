@@ -11,7 +11,7 @@
 
 #### The goal of the Harvest is to harvest all of the apples and carrotts in each level intill you have completed all 8 levels without dieing. This is a hard thing to do because there are a bunch of diffrent difficult levels that you will have to complete including a underwater level and a space level. 
 
-![Capture2](/Capture2.JPG)
+![Capture2](/Capture3.JPG)
 
 ### Controls
 
