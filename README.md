@@ -1,5 +1,7 @@
 # What is The Harvest Platformer Game?
-#### I created this game because I thought it would be cool for a bunny to go on an adventure harving apples and carrots. The bunnys enemies are an owl and a fox who are there real life natural enemies. Also beware of the Chocolate, it will hurt your bunnys score and their tummy.
+#### I created this game because I thought it would be cool for a bunny to go on an adventure harving apples and carrots. The bunnys enemies are an owl and a fox who are there real life natural enemies. Also beware of the Chocolate, it will hurt your bunnys score and their tummy. Here is the Link to the code!
+
+(
 
 
  * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!! I used Idle to make my code :)
