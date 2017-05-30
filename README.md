@@ -5,7 +5,7 @@
 (https://github.com/Gabbygump/the_harvest_platformer.git)
 
 
- * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!! I used Idle to make my code :)
+ * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!! I used Idle to run and make my game. I also used atom to open and edit my json files. :)
 
 
 ## How to Play
