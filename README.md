@@ -1,4 +1,4 @@
- #The Harvest - The only bunny adventure game on the market!
+# The Harvest - The only bunny adventure game on the market!
  
 #### I created this game because I thought it would be cool for a bunny to go on an adventure harving apples and carrots. The bunnys enemies are an owl and a fox who are there real life natural enemies. Also beware of the Chocolate, it will hurt your bunnys score and their tummy. Here is the Link to the code!
 
