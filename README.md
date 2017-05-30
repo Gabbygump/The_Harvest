@@ -2,7 +2,7 @@
  
 #### I created this game because I thought it would be cool for a bunny to go on an adventure harving apples and carrots. The bunnys enemies are an owl and a fox who are there real life natural enemies. Also beware of the Chocolate, it will hurt your bunnys score and their tummy. Here is the Link to the code!
 
-[Github Pages] ( https://gabbygump.github.io/The_Harvest/)
+https://github.com/Gabbygump/The_Harvest.git
 
 
  * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!! I used Idle to run and make my game. I also used atom to open and edit my json files. :)
