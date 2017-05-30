@@ -2,7 +2,7 @@
 #### I created this game because I thought it would be cool for a bunny to go on an adventure harving apples and carrots. The bunnys enemies are an owl and a fox who are there real life natural enemies. Also beware of the Chocolate, it will hurt your bunnys score and their tummy.
 
 
- * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!!
+ * You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for this game to work and for you to enjoy!! I used Idle to make my code :)
 
 
 ## How to Play
@@ -34,6 +34,18 @@
  * The Heart-  This powerup will provide your bunny an extra heart, So you can live longer and hit more owls and foxs without dying. 
  * The Rainbow_ Bunny - This powerup grants you another life so If you die, you can play again. You recieve 3 of these at the start.
  * The Rainbow_Carrot - This powerup grants a bunny 5 seconds of invincibility so it can run through the owls and foxes without getting hurt. 
+ 
+ ### Obstables 
+ 
+ * The Chocolate Bar- This hurts the bunnys score by deducting 1 point after harvesting it . 
+ 
+ ### The Harvest Food
+ 
+ * The carrot gives you 2 points
+ * The apple grants the bunny 1 point. 
+ 
+ 
+ <img src= "resourses/Capture2.jpg" width = "360">
 
 
 
