@@ -11,7 +11,7 @@
 
 #### The goal of the Harvest is to harvest all of the apples and carrotts in each level intill you have completed all 8 levels without dieing. This is a hard thing to do because there are a bunch of diffrent difficult levels that you will have to complete including a underwater level and a space level. 
 
-<img src= "resourses/Capture1.jpg" width = "360">
+![Capture2](/Capture2.JPG)
 
 ### Controls
 
@@ -45,7 +45,8 @@
  * The apple grants the bunny 1 point. 
  
  
- <img src= "resourses/Capture2.jpg" width = "360">
+![Capture1](/Capture.JPG)
+
 
 
 
