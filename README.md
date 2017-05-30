@@ -27,22 +27,22 @@
 
 ## Basic Information
 
- ### Enemies 
+### Enemies 
 
  * Owl - moves side to side and will hurt the amount of hearts you have
  * Fox - moves freely and will hurt the amound of hearts you have
  
- ### Powerups
+### Powerups
  
  * The Heart-  This powerup will provide your bunny an extra heart, So you can live longer and hit more owls and foxs without dying. 
  * The Rainbow_ Bunny - This powerup grants you another life so If you die, you can play again. You recieve 3 of these at the start.
  * The Rainbow_Carrot - This powerup grants a bunny 5 seconds of invincibility so it can run through the owls and foxes without getting hurt. 
  
- ### Obstables 
+### Obstables 
  
  * The Chocolate Bar- This hurts the bunnys score by deducting 1 point after harvesting it . 
  
- ### The Harvest Food
+### The Harvest Food
  
  * The carrot gives you 2 points
  * The apple grants the bunny 1 point. 
